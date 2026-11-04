@@ -106,3 +106,19 @@ This project is an independent educational **MonoGame + Myra** implementation in
 
 No license file is included in the supplied Phase 8 archive. Confirm licensing for the original materials and this adaptation before assigning a license or publishing third-party code.
 # SOSCSRPGMonoGame
+
+## License
+
+This project is licensed under the MIT License.
+See [LICENSE](LICENSE).
+
+## Acknowledgments
+
+This educational project is based on concepts from
+[Scott Lilly's SOSCSRPG](https://github.com/ScottLilly/SOSCSRPG).
+
+Original SOSCSRPG copyright:
+Copyright (C) 2012-2021 Scott Lilly.
+
+See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)
+for attribution and third-party licensing information.
