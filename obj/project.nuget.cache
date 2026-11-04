@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEh5IP3VjOQ=",
+  "success": true,
+  "projectFilePath": "/home/john/Projects/SOSCSRPGMonoGame/SoscMonoGame.csproj",
+  "expectedPackageFiles": [
+    "/home/john/.nuget/packages/assetmanagementbase/0.7.3/assetmanagementbase.0.7.3.nupkg.sha512",
+    "/home/john/.nuget/packages/cyotek.drawing.bitmapfont/2.0.4/cyotek.drawing.bitmapfont.2.0.4.nupkg.sha512",
+    "/home/john/.nuget/packages/fontstashsharp.base/1.2.9/fontstashsharp.base.1.2.9.nupkg.sha512",
+    "/home/john/.nuget/packages/fontstashsharp.monogame/1.6.2/fontstashsharp.monogame.1.6.2.nupkg.sha512",
+    "/home/john/.nuget/packages/fontstashsharp.rasterizers.stbtruetypesharp/1.2.9/fontstashsharp.rasterizers.stbtruetypesharp.1.2.9.nupkg.sha512",
+    "/home/john/.nuget/packages/monogame.framework.desktopgl/3.8.6.1/monogame.framework.desktopgl.3.8.6.1.nupkg.sha512",
+    "/home/john/.nuget/packages/monogame.library.openal/1.24.3.4/monogame.library.openal.1.24.3.4.nupkg.sha512",
+    "/home/john/.nuget/packages/monogame.library.sdl/2.32.10.2/monogame.library.sdl.2.32.10.2.nupkg.sha512",
+    "/home/john/.nuget/packages/myra/1.6.8/myra.1.6.8.nupkg.sha512",
+    "/home/john/.nuget/packages/nvorbis/0.10.4/nvorbis.0.10.4.nupkg.sha512",
+    "/home/john/.nuget/packages/stbimagesharp/2.30.16/stbimagesharp.2.30.16.nupkg.sha512",
+    "/home/john/.nuget/packages/stbtruetypesharp/1.26.13/stbtruetypesharp.1.26.13.nupkg.sha512",
+    "/home/john/.nuget/packages/xnassets.fontstashsharp.monogame/0.8.9/xnassets.fontstashsharp.monogame.0.8.9.nupkg.sha512",
+    "/home/john/.nuget/packages/xnassets.monogame/0.8.9/xnassets.monogame.0.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}
