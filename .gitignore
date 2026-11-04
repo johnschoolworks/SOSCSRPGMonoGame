@@ -1,0 +1,16 @@
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Local audit and validation
+audit-results/
+refactor-baseline/
+refactor-validation/
+
+# Generated release artifacts
+**/artifacts/
+
+# Local audit output
+audit-logs/
+audit-results/
