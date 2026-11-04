@@ -11,7 +11,7 @@ public sealed class ConsoleGame
 
     public void Run(TextReader input, TextWriter output)
     {
-        output.WriteLine("SOSCSRPG Tutorial 020 — Release Candidate v1.0.0-rc1");
+        output.WriteLine("SOSCSRPG Tutorial 020 — v1.0.0");
         output.WriteLine("Type 'help' for commands.");
         RenderView(_controller.Snapshot(), output);
         while (true)

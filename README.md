@@ -7,7 +7,7 @@ An educational C# role-playing game project built with **MonoGame DesktopGL** an
 ## Technology
 
 - C# / .NET 10
-- MonoGame Framework DesktopGL (`3.8.*`)
+- MonoGame Framework DesktopGL (`3.8.6.1`)
 - Myra UI (`1.6.8`)
 - JSON persistence with `System.Text.Json`
 - Linux DesktopGL / X11 launch path
