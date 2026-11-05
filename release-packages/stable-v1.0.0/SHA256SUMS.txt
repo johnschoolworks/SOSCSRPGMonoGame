@@ -1,0 +1,1 @@
+c6aeec7176036f9da5b08afc808d6873c8ab4fb5b3e00fd30421e4fc47fdf458  soscsrpg-terminal-v1.0.0-linux-x64.tar.gz
